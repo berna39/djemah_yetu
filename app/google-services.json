@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "837128458066",
+    "firebase_url": "https://djemah-5b95a.firebaseio.com",
+    "project_id": "djemah-5b95a",
+    "storage_bucket": "djemah-5b95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837128458066:android:4ee687fe7f39dcc0",
+        "android_client_info": {
+          "package_name": "com.example.joseph.djemah_yetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0EKg48RRubXnR2CCIy72SnQWT1LDfLG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837128458066-qv3grckhi1frmnvm4q82jat54orfsk2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
